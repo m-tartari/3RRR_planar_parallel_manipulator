@@ -8,3 +8,5 @@ This project consisted in the design of a three degrees of freedom planar parall
 - For a force equal to 10 N applied on the moving-platform along the normal to the plane of motion in its home configuration, the point-displacement of the moving-platform should be lower than 0.1 mm.
 
 For this design the optimization problem was formulated using MATLAB to meet the specifications, and finding the proper parameters’ values to insert in the CAD model of the manipulator. During the evaluation of complexity phase, we selected the *R*RR architecture between the ones synthetized due to its lower value of complexity and then passed to the embodiment phase, implementing the parallel manipulator model in CATIA.
+
+Feedback, bug reports, and comments are not only welcome, but strongly encouraged.
